@@ -1,2 +1,3 @@
 requests==2.31.0
 cloudscraper==1.2.68
+scapy==2.4.5
