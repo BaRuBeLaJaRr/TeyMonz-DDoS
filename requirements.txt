@@ -1,66 +1,24 @@
-
-/
-/login
-/logout
-/register
-/signup
-/dashboard
-/admin
-/admin/login
-/profile
-/settings
-/search
-/api/v1/users
-/api/v1/products
-/api/v1/orders
-/blog
-/blog/post
-/contact
-/about
-/help
-/privacy
-/terms
-/faq
-/forgot-password
-/reset-password
-/cart
-/checkout
-/products
-/products/view
-/products/list
-/categories
-/categories/view
-/news
-/news/latest
-/news/archive
-/events
-/events/upcoming
-/events/past
-/gallery
-/gallery/photos
-/gallery/videos
-/download
-/downloads
-/resources
-/resources/docs
-/resources/tutorials
-/services
-/services/web-development
-/services/mobile-development
-/services/seo
-/forum
-/forum/topics
-/forum/replies
-/support
-/support/tickets
-/support/chat
-/newsletter
-/subscribe
-/unsubscribe
-/feedback
-/partners
-/affiliate
-/terms-of-service
-/cookie-policy
-/sitemap.xml
-/robots.txt
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept: application/json, text/javascript, */*; q=0.01
+Accept: */*
+Accept-Encoding: gzip, deflate, br
+Accept-Encoding: gzip, deflate
+Accept-Encoding: gzip
+Accept-Language: en-US,en;q=0.5
+Accept-Language: en-GB,en;q=0.5
+Accept-Language: fr-FR,fr;q=0.5
+Connection: keep-alive
+Connection: close
+Referer: https://www.google.com/
+Referer: https://www.bing.com/
+Referer: https://www.yahoo.com/
+Referer: https://www.duckduckgo.com/
+DNT: 1
+DNT: 0
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+Cache-Control: no-cache
+Cache-Control: no-store
+Pragma: no-cache
+TE: trailers
+TE: deflate
